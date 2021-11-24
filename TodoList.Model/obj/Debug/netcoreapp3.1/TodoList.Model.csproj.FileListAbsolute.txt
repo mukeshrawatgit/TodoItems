@@ -1,0 +1,10 @@
+C:\Users\DELL\source\repos\TodoList.Model\bin\Debug\netcoreapp3.1\TodoList.Model.deps.json
+C:\Users\DELL\source\repos\TodoList.Model\bin\Debug\netcoreapp3.1\TodoList.Model.dll
+C:\Users\DELL\source\repos\TodoList.Model\bin\Debug\netcoreapp3.1\TodoList.Model.pdb
+C:\Users\DELL\source\repos\TodoList.Model\obj\Debug\netcoreapp3.1\TodoList.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\TodoList.Model\obj\Debug\netcoreapp3.1\TodoList.Model.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\TodoList.Model\obj\Debug\netcoreapp3.1\TodoList.Model.AssemblyInfo.cs
+C:\Users\DELL\source\repos\TodoList.Model\obj\Debug\netcoreapp3.1\TodoList.Model.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\TodoList.Model\obj\Debug\netcoreapp3.1\TodoList.Model.dll
+C:\Users\DELL\source\repos\TodoList.Model\obj\Debug\netcoreapp3.1\TodoList.Model.pdb
+C:\Users\DELL\source\repos\TodoList.Model\obj\Debug\netcoreapp3.1\TodoList.Model.csproj.AssemblyReference.cache

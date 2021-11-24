@@ -1,0 +1,15 @@
+C:\Users\DELL\source\repos\TodoList.Service\bin\Debug\netcoreapp3.1\TodoList.Service.deps.json
+C:\Users\DELL\source\repos\TodoList.Service\bin\Debug\netcoreapp3.1\TodoList.Service.dll
+C:\Users\DELL\source\repos\TodoList.Service\bin\Debug\netcoreapp3.1\TodoList.Service.pdb
+C:\Users\DELL\source\repos\TodoList.Service\bin\Debug\netcoreapp3.1\TodoList.Data.dll
+C:\Users\DELL\source\repos\TodoList.Service\bin\Debug\netcoreapp3.1\TodoList.Model.dll
+C:\Users\DELL\source\repos\TodoList.Service\bin\Debug\netcoreapp3.1\TodoList.Model.pdb
+C:\Users\DELL\source\repos\TodoList.Service\bin\Debug\netcoreapp3.1\TodoList.Data.pdb
+C:\Users\DELL\source\repos\TodoList.Service\obj\Debug\netcoreapp3.1\TodoList.Service.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\TodoList.Service\obj\Debug\netcoreapp3.1\TodoList.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\TodoList.Service\obj\Debug\netcoreapp3.1\TodoList.Service.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\TodoList.Service\obj\Debug\netcoreapp3.1\TodoList.Service.AssemblyInfo.cs
+C:\Users\DELL\source\repos\TodoList.Service\obj\Debug\netcoreapp3.1\TodoList.Service.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\TodoList.Service\obj\Debug\netcoreapp3.1\TodoList.Service.csproj.CopyComplete
+C:\Users\DELL\source\repos\TodoList.Service\obj\Debug\netcoreapp3.1\TodoList.Service.dll
+C:\Users\DELL\source\repos\TodoList.Service\obj\Debug\netcoreapp3.1\TodoList.Service.pdb

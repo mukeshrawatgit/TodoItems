@@ -1,0 +1,10 @@
+C:\Users\DELL\source\repos\TodoList.CrossCutting\bin\Debug\netcoreapp3.1\TodoList.CrossCutting.deps.json
+C:\Users\DELL\source\repos\TodoList.CrossCutting\bin\Debug\netcoreapp3.1\TodoList.CrossCutting.dll
+C:\Users\DELL\source\repos\TodoList.CrossCutting\bin\Debug\netcoreapp3.1\TodoList.CrossCutting.pdb
+C:\Users\DELL\source\repos\TodoList.CrossCutting\obj\Debug\netcoreapp3.1\TodoList.CrossCutting.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\TodoList.CrossCutting\obj\Debug\netcoreapp3.1\TodoList.CrossCutting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\TodoList.CrossCutting\obj\Debug\netcoreapp3.1\TodoList.CrossCutting.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\TodoList.CrossCutting\obj\Debug\netcoreapp3.1\TodoList.CrossCutting.AssemblyInfo.cs
+C:\Users\DELL\source\repos\TodoList.CrossCutting\obj\Debug\netcoreapp3.1\TodoList.CrossCutting.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\TodoList.CrossCutting\obj\Debug\netcoreapp3.1\TodoList.CrossCutting.dll
+C:\Users\DELL\source\repos\TodoList.CrossCutting\obj\Debug\netcoreapp3.1\TodoList.CrossCutting.pdb
